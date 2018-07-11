@@ -1,2 +1,2 @@
 # git-status-reveal-script
-A script for revealing all git repo's underneath the current working directory, or under an argument path.
+A script for revealing all git repo's underneath the current working directory, or under an argument path. This can be useful when working with large code base's that have multiple git repo's to manage directories. The output will look like each git repo had "git status" called upon it making it easy to quickly see all directories that are managed by a .git directory, and all of its respective tracked/untracked files.
